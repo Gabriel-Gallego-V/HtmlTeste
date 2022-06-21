@@ -1,0 +1,76 @@
+*{
+    margin: 0%;
+    padding: 0pc;
+}
+header{
+    background-color:cadetblue;
+    vertical-align: middle;
+    padding-left: 40%;
+    user-select: none;
+}
+#Pesq{
+    width: 500;
+    align-items: center;
+    height: auto;
+}
+nav{
+    margin-top: 2%;
+    background-color: cadetblue;
+    user-select: none;
+}
+
+/* Seção para links */
+a:visited{
+    color: black;
+}
+a:link{
+    color: black;
+}
+a:hover{
+    color:darkslategrey;
+}
+/* Seção para links */
+
+#Navi > li{
+    color: rgb(1, 6, 10);
+    border-style: ridge;
+    border-color: black;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-top: 0.5%;
+    display:inline-block;
+    margin: 3%;
+}
+section{
+    margin-top: 2%;
+    background-color: cadetblue;
+}
+section > h1{
+    margin-left: 25%;
+}
+.Sects{
+    width: 72%;
+}
+.Sects > h2, .Sects > article > h3{
+    padding-left: 36%;
+}
+.Sects > h3{
+    padding-left: 35%;
+}
+.Sides{
+    margin-top: 6%;
+    background-color: cadetblue;
+    float:right;
+    display: block;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-left: 5.5%;
+    padding-bottom: 2%;
+    width: 20%;
+    text-align:center
+}
+footer{
+    background-color: cadetblue;
+    margin-top: 3%;
+    padding-left: 9%;
+}
